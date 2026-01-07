@@ -1,0 +1,1 @@
+-- libSQL schema placeholder
